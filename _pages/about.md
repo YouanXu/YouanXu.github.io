@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😄 About me
-I was born in Nantong, Jiangsu Province in 2003. I am currently pursuing the Ph.D. degree in electronic engineering at Shanghai Jiao Tong University (SJTU) , Shanghai, China. His current research interests include **millimeter-wave (mmW) phased-array radar transceivers, 3-D RF front-end heterogeneous integration and antenna-in-package (AiP) design**.
+I was born in Nantong, Jiangsu Province in 2003. I am currently pursuing the Ph.D. degree in electronic engineering at Shanghai Jiao Tong University (SJTU) , Shanghai, China. My current research interests include **millimeter-wave (mmW) phased-array radar transceivers, 3-D RF front-end heterogeneous integration and antenna-in-package (AiP) design**.
 
 
 Welcome to exchange and cooperate with me! My email address is **xuyouan2003@163.com** and **youanxu689@gmail.com**.
