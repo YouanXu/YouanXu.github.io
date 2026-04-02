@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Euan(YouanXu)"
-  avatar           : "images/academic_xya.png"
-  bio              : "Shanghai Jiao Tong University"
+  avatar           : "images/academic_xya_new.png"
+  bio              : "Shanghai Jiao Tong University (SJTU)"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "State Key Laboratory of Radio Frequency Heterogeneous Integration (SJTU)."
   pubmed           : 
   googlescholar    : 
   email            : 
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  wechat           : "18012289187"
   xing             :
   youtube          :
   wikipedia        :
