@@ -42,11 +42,11 @@ Welcome to exchange and cooperate with me! My email address is **xuyouan2003@163
 
 
 # 📘 Patents
-- *2024.07*, 一种应用于无线局域网的双频定向光学透明天线（中国，已授权）,PAT: ZL2024104898046.**Youan Xu**, Xin-Yao Luo, Xuejunwen Cao, Guowen Ding
+- *2024.07*, A dual-band directional optical transparent antenna for use in wireless local area networks (China, patented),PAT: ZL2024104898046.**Youan Xu**, Xin-Yao Luo, Xuejunwen Cao, Guowen Ding
 
 
 # 🔬 Projects and Funding
-- *2024.04-2025.04*, 应用于WLAN双频段的低剖面光学透明MIMO天线的研究与设计（江苏省省级大创项目，已优秀结题），GRANT_NUMBER: 202410300121Y.**Youan Xu**, Xuejunwen Cao, Rui Xu, Meiran Yang
+- *2024.04-2025.04*, Research and Design of Low-profile Optical Transparent MIMO Antenna for WLAN Dual-Band (Provincial-level Innovation Project of Jiangsu Province, successfully completed with excellent results)，GRANT_NUMBER: 202410300121Y.**Youan Xu**, Xuejunwen Cao, Rui Xu, Meiran Yang
 
 
 
