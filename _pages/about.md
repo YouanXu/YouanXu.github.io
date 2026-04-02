@@ -42,8 +42,8 @@ Welcome to exchange and cooperate with me! My email address is **xuyouan2003@163
 
 
 # 📘 Patents
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.07*, 一种应用于无线局域网的双频定向光学透明天线（已授权）,PAT: ZL2024104898046
+
 
 # 🔬 Projects and Funding
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
