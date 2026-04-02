@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Euan(YouanXu) "
 description              : "A PhD student majoring in electronic engineering. "
-repository               : 
+repository               : "State Key Laboratory of Radio Frequency Heterogeneous Integration"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,9 +24,7 @@ author:
   name             : "Euan(YouanXu)"
   avatar           : "images/academic_xya_new.png"
   bio              : "Shanghai Jiao Tong University (SJTU)"
-  location         : "Shanghai, China  
-  State Key Laboratory of Radio   
-  Frequency Heterogeneous Integration"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : 
