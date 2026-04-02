@@ -42,11 +42,11 @@ Welcome to exchange and cooperate with me! My email address is **xuyouan2003@163
 
 
 # 📘 Patents
-- *2024.07*, **A dual-band directional optical transparent antenna for WLAN systems** (China, patented),PAT: ZL2024104898046.**Youan Xu**, Xin-Yao Luo, Xuejunwen Cao, Guowen Ding
+- *2024.07*, **A dual-band directional optical transparent antenna for WLAN system** (China, patented),PAT: ZL2024104898046.**Youan Xu**, Xin-Yao Luo, Xuejunwen Cao, Guowen Ding
 
 
 # 🔬 Projects and Funding
-- *2024.04-2025.04*, **Research and Design of Dual-Band Low-profile Optical Transparent MIMO Antenna for WLAN Systems** (China, Provincial-level Innovation Project of Jiangsu Province, successfully completed with excellent results)，GRANT_NUMBER: 202410300121Y.**Youan Xu**, Xuejunwen Cao, Rui Xu, Meiran Yang
+- *2024.04-2025.04*, **Research and Design of Dual-Band Low-profile Optical Transparent MIMO Antenna for WLAN System** (China, Provincial-level Innovation Project of Jiangsu Province, successfully completed with excellent results)，GRANT_NUMBER: 202410300121Y.**Youan Xu**, Xuejunwen Cao, Rui Xu, Meiran Yang
 
 
 
@@ -57,4 +57,4 @@ Welcome to exchange and cooperate with me! My email address is **xuyouan2003@163
 - *2024.10*: &nbsp;🎉🎉 **First Prize** of the 2024 National College Students' Mathematical Modeling Competition of Jiangsu Province, **first author**。
 - *2024.07*: &nbsp;🎉🎉 Third Prize of the 2024 National College Students' Integrated Circuit Innovation and Entrepreneurship Competition - East China Region.
 - *2024.07*: &nbsp;🎉🎉 Granted one national invention patent, **first author**, PAT: ZL2024104898046.
-- *2024.04*: &nbsp;🎉🎉 Approved the Jiangsu Province SRTP project, **first author**, GRANT_NUMBER:202410300121Y, RMB 4,000.
+- *2024.04*: &nbsp;🎉🎉 Approved the **Jiangsu Province SRTP project**, **first author**, GRANT_NUMBER:202410300121Y, RMB 4,000.
