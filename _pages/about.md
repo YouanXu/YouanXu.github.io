@@ -52,7 +52,7 @@ Welcome to exchange and cooperate with me! My email address is **xuyouan2003@163
 
 # 🔥 Honors and Awards
 - *2025.11*: &nbsp;🎉🎉 Yuanben Scholarship, **the sole candidate**,RMB 2,000.
-- *2025.05*: &nbsp;🎉🎉 The paper was shortlisted for the 2025 IEEE IWS Flash Competition Finalist (20/92) ,**Oral presentationt, first author**. 
+- *2025.05*: &nbsp;🎉🎉 The paper was shortlisted for the **2025 IEEE IWS Flash Competition Finalist (20/92)** ,**Oral presentationt, first author**. 
 - *2024.12*: &nbsp;🎉🎉 **First Prize** of the 2024 National College Students' Embedded Chip and System Design Competition
 - *2024.10*: &nbsp;🎉🎉 **First Prize** of the 2024 National College Students' Mathematical Modeling Competition of Jiangsu Province, **first author**。
 - *2024.07*: &nbsp;🎉🎉 Third Prize of the 2024 National College Students' Integrated Circuit Innovation and Entrepreneurship Competition - East China Region.
