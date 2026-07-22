@@ -25,6 +25,7 @@ author:
   avatar           : "images/academic_xya_new.png"
   bio              : "Shanghai Jiao Tong University (SJTU)"
   location         : "Shanghai, China"
+  redbookid        : "helloxhs_xya"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/YouanXu"
   google_plus      :
   keybase          :
   instagram        :
