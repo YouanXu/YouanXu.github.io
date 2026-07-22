@@ -22,7 +22,7 @@ I was born in Nantong, Jiangsu Province in 2003. I am currently at the State Key
 
 My professional aspiration is to become a distinguished engineer through sustained dedication, rigorous technical training, and continuous contribution to engineering excellence.  
 
-Welcome to exchange and cooperate with me! My email address is **xuyouan2003@163.com** and **youanxu689@gmail.com**.
+Welcome to exchange and cooperate with me! My email address is **youan.xu@sjtu.edu.cn**, **xuyouan2003@163.com** and **youanxu689@gmail.com**.
 
 
 
