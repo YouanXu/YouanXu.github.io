@@ -50,6 +50,21 @@ Welcome to exchange and cooperate with me! My email address is **youan.xu@sjtu.e
 # 🔬 Projects and Funding
 - *2024.04-2025.04*, **Research and Design of Dual-Band Low-profile Optical Transparent MIMO Antenna for WLAN System** (China, Provincial-level Innovation Project of Jiangsu Province, successfully completed with excellent results)，GRANT_NUMBER: 202410300121Y.**Youan Xu**, Xuejunwen Cao, Rui Xu, Meiran Yang
 
+<div class="paper-box project-box">
+<div class="paper-box-image"><div>
+<div class="badge">Compact Dual-Band Optically Transparent MIMO Antenna</div>
+<a href="{{ '/images/Project1.png' | relative_url }}" aria-label="View the full-size project poster"><img src="{{ '/images/Project1.png' | relative_url }}" alt="Project poster showing the compact dual-band optically transparent MIMO antenna, decoupling structure, and simulated and measured results" width="100%" loading="lazy"></a>
+</div></div>
+<div class="paper-box-text" markdown="1">
+
+**A Compact Dual-Band Optically Transparent MIMO Antenna for WLAN System**
+
+[**Abstract**]
+- A compact dual-band optically transparent multiple-input-multiple-output (MIMO) antenna with low profile is proposed for 2.4/5 GHz wireless local area network (WLAN) applications. By utilizing low-loss glass-based indium tin oxide (ITO) film, high optical transparency is achieved. An air gap of only 0.032<i>λ</i><sub>0</sub> separates the two layers. By introducing rectangular slots decoupling structure for band-stop filtering, the edge-to-edge distance between the element antennas is reduced to merely 0.024<i>λ</i><sub>0</sub>, while ensuring that isolation remains below -20 dB. The proposed optically transparent MIMO antenna, offering advantages of miniaturization, high isolation, high transparency and high gain, exhibits promising potential for applications in indoor communication systems, solar panel-integrated antennas, and vehicle communication, where their optical transparency enables seamless integration.
+
+</div>
+</div>
+
 
 
 # 🔥 Honors and Awards
