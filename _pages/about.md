@@ -59,7 +59,6 @@ Welcome to exchange and cooperate with me! My email address is **youan.xu@sjtu.e
 
 **A Compact Dual-Band Optically Transparent MIMO Antenna for WLAN System**
 
-[**Abstract**]
 - A compact dual-band optically transparent multiple-input-multiple-output (MIMO) antenna with low profile is proposed for 2.4/5 GHz wireless local area network (WLAN) applications. By utilizing low-loss glass-based indium tin oxide (ITO) film, high optical transparency is achieved. An air gap of only 0.032<i>λ</i><sub>0</sub> separates the two layers. By introducing rectangular slots decoupling structure for band-stop filtering, the edge-to-edge distance between the element antennas is reduced to merely 0.024<i>λ</i><sub>0</sub>, while ensuring that isolation remains below -20 dB. The proposed optically transparent MIMO antenna, offering advantages of miniaturization, high isolation, high transparency and high gain, exhibits promising potential for applications in indoor communication systems, solar panel-integrated antennas, and vehicle communication, where their optical transparency enables seamless integration.
 
 </div>
