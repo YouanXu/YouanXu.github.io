@@ -44,8 +44,7 @@ Welcome to exchange and cooperate with me! My email address is **youan.xu@sjtu.e
 
 # 📘 Patents
 - **一种应用于无线局域网的双频定向光学透明天线，国家发明专利，专利号：ZL 2024 1 0489804.6（已授权 / Granted）**<br>
-  **发明人（按证书顺序）：许佑安（第 1 发明人）**、罗歆瑶（第 2）、曹学珺雯（第 3）、丁国文（第 4）<br>
-  **专利权人：**南京信息工程大学；**授权公告号：**CN 118099723 B；**授权公告日：**2024年07月09日
+  **发明人：许佑安（第 1 发明人）**、罗歆瑶、曹学珺雯、丁国文
 
 
 # 🔬 Projects and Funding
