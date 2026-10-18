@@ -37,13 +37,15 @@ Welcome to exchange and cooperate with me! My email address is **youan.xu@sjtu.e
 **DOI：** 10.1109/IWS65943.2025.11177690  
 **Date Added to IEEE Xplore:**  06 October 2025  
 [**Abstract**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This work presents an optically transparent multiple-input-multiple-output (MIMO) antenna operating in 2.4/5 GHz wireless local area network (WLAN). An artificial magnetic conductor (AMC) is designed as the ground plane, effectively reducing the profile and enhancing the gain of the proposed MIMO antenna. To reduce the coupling between two antenna units, a rectangular strip slotted with a rectangular groove is introduced. By utilizing low-loss glass-based indium tin oxide (ITO) as the substrate and reflector, optical transparency of the antenna is achieved.The proposed MIMO antenna featuring the advantages of miniaturization, high isolation, and high gain shows prospective potential applications in indoor communication systems, solar panel mounted antenna and vehicle communication, where their optical transparency enables seamless integration.
+- This work presents an optically transparent multiple-input-multiple-output (MIMO) antenna operating in 2.4/5 GHz wireless local area network (WLAN). An artificial magnetic conductor (AMC) is designed as the ground plane, effectively reducing the profile and enhancing the gain of the proposed MIMO antenna. To reduce the coupling between two antenna units, a rectangular strip slotted with a rectangular groove is introduced. By utilizing low-loss glass-based indium tin oxide (ITO) as the substrate and reflector, optical transparency of the antenna is achieved. The profile and edge-to-edge distance of the proposed antenna are only 0.067λ₀ and 0.075λ₀, respectively. The simulated results show that the gain of 1.36 and 6.3 dBi in lower and upper operating band can be achieved, respectively. The proposed MIMO antenna featuring the advantages of miniaturization, high isolation, and high gain shows prospective potential applications in indoor communication systems, solar panel mounted antenna and vehicle communication, where their optical transparency enables seamless integration.
 </div>
 </div>
 
 
 # 📘 Patents
-- *2024.07*, **A dual-band directional optical transparent antenna for WLAN system** (China, patented),PATENT_NUMBER: ZL2024104898046.**Youan Xu**, Xin-Yao Luo, Xuejunwen Cao, Guowen Ding
+- **一种应用于无线局域网的双频定向光学透明天线，国家发明专利，专利号：ZL 2024 1 0489804.6（已授权 / Granted）**<br>
+  **发明人（按证书顺序）：许佑安（第 1 发明人）**、罗歆瑶（第 2）、曹学珺雯（第 3）、丁国文（第 4）<br>
+  **专利权人：**南京信息工程大学；**授权公告号：**CN 118099723 B；**授权公告日：**2024年07月09日
 
 
 # 🔬 Projects and Funding
