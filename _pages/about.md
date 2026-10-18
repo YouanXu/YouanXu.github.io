@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😄 About me
-I was born in Nantong, Jiangsu Province in 2003. I am currently at the State Key Laboratory of Radio Frequency Heterogeneous Integration (SJTU) and pursuing a Ph.D. degree in Electronic Engineering at Shanghai Jiao Tong University (SJTU) , Shanghai, China. My current research interests include **millimeter-wave (mmW) phased-array radar transceivers, 3-D RF front-end heterogeneous integration and antenna-in-package (AiP) design**.
+I was born in Nantong, Jiangsu Province, in 2003. I am currently pursuing a Ph.D. in Electronic Engineering at Shanghai Jiao Tong University (SJTU), Shanghai, China, and conducting research at the State Key Laboratory of Radio Frequency Heterogeneous Integration. My current research interests include **millimeter-wave (mmW) phased-array radar transceivers, 3-D RF front-end heterogeneous integration, and antenna-in-package (AiP) design**.
 
 My professional aspiration is to become a distinguished engineer through sustained dedication, rigorous technical training, and continuous contribution to engineering excellence.  
 
-Welcome to exchange and cooperate with me! My email address is **youan.xu@sjtu.edu.cn**, **xuyouan2003@163.com** and **youanxu689@gmail.com**.
+I welcome opportunities for discussion and collaboration. You can reach me at **youan.xu@sjtu.edu.cn**, **xuyouan2003@163.com**, or **youanxu689@gmail.com**.
 
 
 
@@ -33,9 +33,9 @@ Welcome to exchange and cooperate with me! My email address is **youan.xu@sjtu.e
 
 [An Optically Transparent Low-Profile Dual-Band MIMO Antenna for WLAN System](https://ieeexplore.ieee.org/document/11177690)
 
-**Authors：** **Youan Xu**, Ruijie Wu, Xin-Yao Luo*, Guowen Ding, Shenyun Wang    
-**DOI：** 10.1109/IWS65943.2025.11177690  
-**Date Added to IEEE Xplore:**  06 October 2025  
+**Authors:** **Youan Xu**, Ruijie Wu, Xinyao Luo*, Guowen Ding, Shenyun Wang<br>
+**DOI:** 10.1109/IWS65943.2025.11177690<br>
+**Date Added to IEEE Xplore:** 2025-10-06<br>
 [**Abstract**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This work presents an optically transparent multiple-input-multiple-output (MIMO) antenna operating in 2.4/5 GHz wireless local area network (WLAN). An artificial magnetic conductor (AMC) is designed as the ground plane, effectively reducing the profile and enhancing the gain of the proposed MIMO antenna. To reduce the coupling between two antenna units, a rectangular strip slotted with a rectangular groove is introduced. By utilizing low-loss glass-based indium tin oxide (ITO) as the substrate and reflector, optical transparency of the antenna is achieved. The profile and edge-to-edge distance of the proposed antenna are only 0.067λ₀ and 0.075λ₀, respectively. The simulated results show that the gain of 1.36 and 6.3 dBi in lower and upper operating band can be achieved, respectively. The proposed MIMO antenna featuring the advantages of miniaturization, high isolation, and high gain shows prospective potential applications in indoor communication systems, solar panel mounted antenna and vehicle communication, where their optical transparency enables seamless integration.
 </div>
@@ -48,12 +48,14 @@ Welcome to exchange and cooperate with me! My email address is **youan.xu@sjtu.e
 
 
 # 🔬 Projects and Funding
-- *2024.04-2025.04*, **Research and Design of Dual-Band Low-profile Optical Transparent MIMO Antenna for WLAN System** (China, Provincial-level Innovation Project of Jiangsu Province, successfully completed with excellent results)，GRANT_NUMBER: 202410300121Y.**Youan Xu**, Xuejunwen Cao, Rui Xu, Meiran Yang
+- *2024-04 – 2025-04*: **Research and Design of a Dual-Band Low-Profile Optically Transparent MIMO Antenna for WLAN Systems**<br>
+  Jiangsu Provincial Undergraduate Innovation Project, China; completed with an excellent evaluation. **Grant No.:** 202410300121Y.<br>
+  **Team:** **Youan Xu (Project Lead)**, Xuejunwen Cao, Rui Xu, Meiran Yang.
 
 <div class="paper-box project-box">
 <div class="paper-box-image"><div>
 <div class="badge">Compact Dual-Band Optically Transparent MIMO Antenna</div>
-<a href="{{ '/images/Project1.png' | relative_url }}" aria-label="View the full-size project poster"><img src="{{ '/images/Project1.png' | relative_url }}" alt="Project poster showing the compact dual-band optically transparent MIMO antenna, decoupling structure, and simulated and measured results" width="100%" loading="lazy"></a>
+<a href="{{ '/images/Project1.png' | relative_url }}?v=20261018-corrected" aria-label="View the full-size project poster"><img src="{{ '/images/project1-preview.webp' | relative_url }}" alt="Antenna structure, fabricated prototype, and optical transparency measurements; click to view the full poster" width="1200" height="1440" loading="lazy" decoding="async"></a>
 </div></div>
 <div class="paper-box-text" markdown="1">
 
@@ -67,11 +69,11 @@ Welcome to exchange and cooperate with me! My email address is **youan.xu@sjtu.e
 
 
 # 🔥 Honors and Awards
-- *2026.06*: &nbsp;🎉🎉 The **Honors Bachelor's Degree** from Nanjing University of Information Science and Technology (NUIST)
-- *2025.11*: &nbsp;🎉🎉 Yuanben Scholarship, **the sole candidate**,RMB 2,000.
-- *2025.05*: &nbsp;🎉🎉 The paper was shortlisted for the **2025 IEEE IWS Flash Competition Finalist (20/92)** ,**Oral presentationt, first author**. 
-- *2024.12*: &nbsp;🎉🎉 **First Prize** of the 2024 National College Students' Embedded Chip and System Design Competition
-- *2024.10*: &nbsp;🎉🎉 **First Prize** of the 2024 National College Students' Mathematical Modeling Competition of Jiangsu Province, **first author**。
-- *2024.07*: &nbsp;🎉🎉 Third Prize of the 2024 National College Students' Integrated Circuit Innovation and Entrepreneurship Competition - East China Region.
-- *2024.07*: &nbsp;🎉🎉 Granted one national invention patent, **first author**, PATENT_NUMBER: ZL2024104898046.
-- *2024.04*: &nbsp;🎉🎉 Approved the **Jiangsu Province SRTP project**, **first author**, GRANT_NUMBER:202410300121Y, RMB 4,000.
+- *2026-06*: &nbsp;🎉🎉 **Honors Bachelor's Degree**, Nanjing University of Information Science and Technology (NUIST).
+- *2025-11*: &nbsp;🎉🎉 **Yuanben Scholarship**, sole nominee; RMB 2,000.
+- *2025-05*: &nbsp;🎉🎉 **2025 IEEE IWS Flash Competition Finalist (20/92)**; oral presentation; **First Author**.
+- *2024-12*: &nbsp;🎉🎉 **First Prize**, 2024 National College Students' Embedded Chip and System Design Competition.
+- *2024-10*: &nbsp;🎉🎉 **First Prize**, 2024 National College Students' Mathematical Modeling Competition, Jiangsu Province; **ranked first among team members**.
+- *2024-07*: &nbsp;🎉🎉 **Third Prize**, 2024 National College Students' Integrated Circuit Innovation and Entrepreneurship Competition, East China Region.
+- *2024-07*: &nbsp;🎉🎉 National invention patent granted; **First Inventor**; **Patent No.:** ZL 2024 1 0489804.6.
+- *2024-04*: &nbsp;🎉🎉 **Jiangsu Province SRTP Project** approved; **Project Lead**; **Grant No.:** 202410300121Y; RMB 4,000.
