@@ -28,7 +28,11 @@ I welcome opportunities for discussion and collaboration. You can reach me at **
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IWS 2025</div><img src='images/pub1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">IEEE IWS 2025</div>
+<a href="{{ '/images/pub1.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/images/pub1.png' | relative_url }}" alt="Illustration of the optically transparent dual-band MIMO antenna" width="100%"></a>
+<a class="photo-preview-link" href="{{ '/images/pub1.png' | relative_url }}" target="_blank" rel="noopener">Preview Photo</a>
+</div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Optically Transparent Low-Profile Dual-Band MIMO Antenna for WLAN System](https://ieeexplore.ieee.org/document/11177690)
@@ -55,7 +59,8 @@ I welcome opportunities for discussion and collaboration. You can reach me at **
 <div class="paper-box project-box">
 <div class="paper-box-image"><div>
 <div class="badge">Compact Dual-Band Optically Transparent MIMO Antenna</div>
-<a href="{{ '/images/Project1.png' | relative_url }}?v=20261018-corrected" aria-label="View the full-size project poster"><img src="{{ '/images/project1-preview.webp' | relative_url }}" alt="Antenna structure, fabricated prototype, and optical transparency measurements; click to view the full poster" width="1200" height="1440" loading="lazy" decoding="async"></a>
+<a href="{{ '/images/Project1.png' | relative_url }}?v=20261018-corrected" target="_blank" rel="noopener" aria-label="View the full-size project poster"><img src="{{ '/images/project1-preview.webp' | relative_url }}?v=full-poster" alt="Full project poster showing the compact dual-band optically transparent MIMO antenna and its experimental results" width="1600" height="900" loading="lazy" decoding="async"></a>
+<a class="photo-preview-link" href="{{ '/images/Project1.png' | relative_url }}?v=20261018-corrected" target="_blank" rel="noopener">Preview Photo</a>
 </div></div>
 <div class="paper-box-text" markdown="1">
 
